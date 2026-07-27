@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "50ea5425e80c3ac97061c644fc1463be",
+    "content-hash": "f65b67dc48ba1a25d171f94ca5963d4a",
     "packages": [
         {
             "name": "anourvalar/eloquent-serialize",
@@ -2076,7 +2076,7 @@
         },
         {
             "name": "islamv/filament-settings-plugin",
-            "version": "V0.0.2",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/islamV/filament-settings-plugin.git",
